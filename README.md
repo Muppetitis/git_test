@@ -1,0 +1,1 @@
+This is Muppetitis's first Git project!
